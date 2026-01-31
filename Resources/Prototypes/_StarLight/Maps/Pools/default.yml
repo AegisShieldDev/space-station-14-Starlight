@@ -2,10 +2,8 @@
   id: DefaultStarlightMapPool
   maps:
   - StarlightBagel
-  - StarlightBarratry
   - StarlightCog
   - StarlightCork
-  - StarlightExo
   - StarlightFland
   - StarlightHotel
   - StarlightLagan
@@ -13,12 +11,10 @@
   - StarlightLobster
   - StarlightManor
   - StarlightMing
-  - StarlightOasis
-  - StarlightOmega
-  - StarlightOrigin
   - StarlightOrwell
   - StarlightReach
   - StarlightSaltern
+  - StarlightSepultum
   - StarlightStarboard
   - StarlightKiloton
   - StarlightElkridge
@@ -26,6 +22,7 @@
   - StarlightSilica
   - StarlightCluster
   - StarlightBox
-# - StarlightMarathon
-# - StarlightMeta
-# - StarlightPacked
+  - StarlightPlasma
+  - StarlightPacked
+  - StarlightSpaceMall
+# - StarlightBarratry

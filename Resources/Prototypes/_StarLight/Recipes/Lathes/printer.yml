@@ -31,8 +31,8 @@
     SheetPrinter: 100
     
 - type: latheRecipe
-  id: PrintedDocumentReporDepartmentRecipe
-  result: PrintedDocumentReporDepartment
+  id: PrintedDocumentReportDepartmentRecipe
+  result: PrintedDocumentReportDepartment
   categories:
   - Reports
   completetime: 2
@@ -403,6 +403,16 @@
   result: PrintedDocumentSurgeryConsentPermit
   categories:
   - Permissions
+  completetime: 2
+  applyMaterialDiscount: false
+  materials:
+    SheetPrinter: 100
+    
+- type: latheRecipe
+  id: PrintedDocumentArtPermitRecipe
+  result: PrintedDocumentArtPermit
+  categories:
+    - Permissions
   completetime: 2
   applyMaterialDiscount: false
   materials:

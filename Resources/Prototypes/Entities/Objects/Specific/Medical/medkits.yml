@@ -111,6 +111,7 @@
         - Brutepack
         - Bloodpack
         - Gauze
+        - Hypospray
         - Ointment
         - CigPack
         - PillCanister
@@ -118,8 +119,10 @@
         - DiscreteHealthAnalyzer
         - SurgeryTool
         - Dropper
+        - BodyBag
+        - Vial
+        - AutoMender
        components:
-        - Hypospray
         - Injector
         - Pill
         - HandLabeler
