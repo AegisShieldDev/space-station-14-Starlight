@@ -668,6 +668,33 @@
 
 - type: entity
   parent:  [ClothingNeckBase]
+  id: ResomiBeltCloakBSO
+  name: bso resomi belt cloak
+  description: A resomi-sized cloak
+  components:
+  - type: Sprite
+    sprite: _Starlight/Clothing/Neck/cloaks/resomi_cloaks/departmental/resomi_beltcloak_bso.rsi
+
+- type: entity
+  parent:  [ClothingNeckBase]
+  id: ResomiBeltCloakBrigmed
+  name: Brigmedic resomi belt cloak
+  description: A resomi-sized cloak
+  components:
+  - type: Sprite
+    sprite: _Starlight/Clothing/Neck/cloaks/resomi_cloaks/departmental/resomi_beltcloak_brgmd.rsi
+
+- type: entity
+  parent:  [ClothingNeckBase]
+  id: ResomiBeltCloakCorpsman
+  name: Corpsman resomi belt cloak
+  description: A resomi-sized cloak
+  components:
+  - type: Sprite
+    sprite: _Starlight/Clothing/Neck/cloaks/resomi_cloaks/departmental/resomi_beltcloak_crpsman.rsi
+
+- type: entity
+  parent:  [ClothingNeckBase]
   id: ResomiCloakAtmos
   name: atmos resomi cloak
   description: A resomi-sized cloak
