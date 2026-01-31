@@ -1,0 +1,856 @@
+- type: entity
+  parent:  [ClothingNeckBase]
+  id: ResomiBeltCloakBBL
+  name: black and blue resomi belt cloak
+  description: A resomi-sized cloak
+  components:
+  - type: Sprite
+    sprite: _Starlight/Clothing/Neck/cloaks/resomi_cloaks/generic/resomi_beltcloak_bbl.rsi
+
+- type: entity
+  parent:  [ClothingNeckBase]
+  id: ResomiBeltCloakBBR
+  name: black and gold resomi belt cloak
+  description: A resomi-sized cloak
+  components:
+  - type: Sprite
+    sprite: _Starlight/Clothing/Neck/cloaks/resomi_cloaks/generic/resomi_beltcloak_bbr.rsi
+
+- type: entity
+  parent:  [ClothingNeckBase]
+  id: ResomiBeltCloakBG
+  name: black resomi belt cloak
+  description: A resomi-sized cloak
+  components:
+  - type: Sprite
+    sprite: _Starlight/Clothing/Neck/cloaks/resomi_cloaks/generic/resomi_beltcloak_bg.rsi
+
+- type: entity
+  parent:  [ClothingNeckBase]
+  id: ResomiBeltCloakBGR
+  name: black and green resomi belt cloak
+  description: A resomi-sized cloak
+  components:
+  - type: Sprite
+    sprite: _Starlight/Clothing/Neck/cloaks/resomi_cloaks/generic/resomi_beltcloak_bgr.rsi
+
+- type: entity
+  parent:  [ClothingNeckBase]
+  id: ResomiBeltCloakBLG
+  name: black and light gray resomi belt cloak
+  description: A resomi-sized cloak
+  components:
+  - type: Sprite
+    sprite: _Starlight/Clothing/Neck/cloaks/resomi_cloaks/generic/resomi_beltcloak_blg.rsi
+
+- type: entity
+  parent:  [ClothingNeckBase]
+  id: ResomiBeltCloakBLUG
+  name: blue and gray resomi belt cloak
+  description: A resomi-sized cloak
+  components:
+  - type: Sprite
+    sprite: _Starlight/Clothing/Neck/cloaks/resomi_cloaks/generic/resomi_beltcloak_blug.rsi
+
+- type: entity
+  parent:  [ClothingNeckBase]
+  id: ResomiBeltCloakBMG
+  name: black and gray resomi belt cloak
+  description: A resomi-sized cloak
+  components:
+  - type: Sprite
+    sprite: _Starlight/Clothing/Neck/cloaks/resomi_cloaks/generic/resomi_beltcloak_bmg.rsi
+
+- type: entity
+  parent:  [ClothingNeckBase]
+  id: ResomiBeltCloakBN
+  name: black resomi belt cloak
+  description: A resomi-sized cloak
+  components:
+  - type: Sprite
+    sprite: _Starlight/Clothing/Neck/cloaks/resomi_cloaks/generic/resomi_beltcloak_bn.rsi
+
+- type: entity
+  parent:  [ClothingNeckBase]
+  id: ResomiBeltCloakBO
+  name: black and orange resomi belt cloak
+  description: A resomi-sized cloak
+  components:
+  - type: Sprite
+    sprite: _Starlight/Clothing/Neck/cloaks/resomi_cloaks/generic/resomi_beltcloak_bo.rsi
+
+- type: entity
+  parent:  [ClothingNeckBase]
+  id: ResomiBeltCloakBP
+  name: black and purple resomi belt cloak
+  description: A resomi-sized cloak
+  components:
+  - type: Sprite
+    sprite: _Starlight/Clothing/Neck/cloaks/resomi_cloaks/generic/resomi_beltcloak_bp.rsi
+
+- type: entity
+  parent:  [ClothingNeckBase]
+  id: ResomiBeltCloakBPI
+  name: black and pink resomi belt cloak
+  description: A resomi-sized cloak
+  components:
+  - type: Sprite
+    sprite: _Starlight/Clothing/Neck/cloaks/resomi_cloaks/generic/resomi_beltcloak_bpi.rsi
+
+- type: entity
+  parent:  [ClothingNeckBase]
+  id: ResomiBeltCloakBR
+  name: black and red resomi belt cloak
+  description: A resomi-sized cloak
+  components:
+  - type: Sprite
+    sprite: _Starlight/Clothing/Neck/cloaks/resomi_cloaks/generic/resomi_beltcloak_br.rsi
+
+- type: entity
+  parent:  [ClothingNeckBase]
+  id: ResomiBeltCloakBRG
+  name: brown and gray resomi belt cloak
+  description: A resomi-sized cloak
+  components:
+  - type: Sprite
+    sprite: _Starlight/Clothing/Neck/cloaks/resomi_cloaks/generic/resomi_beltcloak_brg.rsi
+
+- type: entity
+  parent:  [ClothingNeckBase]
+  id: ResomiBeltCloakBW
+  name: black and white resomi belt cloak
+  description: A resomi-sized cloak
+  components:
+  - type: Sprite
+    sprite: _Starlight/Clothing/Neck/cloaks/resomi_cloaks/generic/resomi_beltcloak_bw.rsi
+
+- type: entity
+  parent:  [ClothingNeckBase]
+  id: ResomiBeltCloakBY
+  name: black and yellow resomi belt cloak
+  description: A resomi-sized cloak
+  components:
+  - type: Sprite
+    sprite: _Starlight/Clothing/Neck/cloaks/resomi_cloaks/generic/resomi_beltcloak_by.rsi
+
+- type: entity
+  parent:  [ClothingNeckBase]
+  id: ResomiBeltCloakGG
+  name: green and gray resomi belt cloak
+  description: A resomi-sized cloak
+  components:
+  - type: Sprite
+    sprite: _Starlight/Clothing/Neck/cloaks/resomi_cloaks/generic/resomi_beltcloak_gg.rsi
+
+- type: entity
+  parent:  [ClothingNeckBase]
+  id: ResomiBeltCloakLGG
+  name: gray resomi belt cloak
+  description: A resomi-sized cloak
+  components:
+  - type: Sprite
+    sprite: _Starlight/Clothing/Neck/cloaks/resomi_cloaks/generic/resomi_beltcloak_lgg.rsi
+
+- type: entity
+  parent:  [ClothingNeckBase]
+  id: ResomiBeltCloakOG
+  name: orange and gray resomi belt cloak
+  description: A resomi-sized cloak
+  components:
+  - type: Sprite
+    sprite: _Starlight/Clothing/Neck/cloaks/resomi_cloaks/generic/resomi_beltcloak_og.rsi
+
+- type: entity
+  parent:  [ClothingNeckBase]
+  id: ResomiBeltCloakON
+  name: orange resomi belt cloak
+  description: A resomi-sized cloak
+  components:
+  - type: Sprite
+    sprite: _Starlight/Clothing/Neck/cloaks/resomi_cloaks/generic/resomi_beltcloak_on.rsi
+
+- type: entity
+  parent:  [ClothingNeckBase]
+  id: ResomiBeltCloakPG
+  name: purple resomi belt cloak
+  description: A resomi-sized cloak
+  components:
+  - type: Sprite
+    sprite: _Starlight/Clothing/Neck/cloaks/resomi_cloaks/generic/resomi_beltcloak_pg.rsi
+
+- type: entity
+  parent:  [ClothingNeckBase]
+  id: ResomiBeltCloakPIG
+  name: pink and gray resomi belt cloak
+  description: A resomi-sized cloak
+  components:
+  - type: Sprite
+    sprite: _Starlight/Clothing/Neck/cloaks/resomi_cloaks/generic/resomi_beltcloak_pig.rsi
+
+- type: entity
+  parent:  [ClothingNeckBase]
+  id: ResomiBeltCloakRainbow
+  name: rainbow resomi belt cloak
+  description: A resomi-sized cloak
+  components:
+  - type: Sprite
+    sprite: _Starlight/Clothing/Neck/cloaks/resomi_cloaks/generic/resomi_beltcloak_rainbow.rsi
+
+- type: entity
+  parent:  [ClothingNeckBase]
+  id: ResomiBeltCloakRG
+  name: red and gray resomi belt cloak
+  description: A resomi-sized cloak
+  components:
+  - type: Sprite
+    sprite: _Starlight/Clothing/Neck/cloaks/resomi_cloaks/generic/resomi_beltcloak_rg.rsi
+
+- type: entity
+  parent:  [ClothingNeckBase]
+  id: ResomiBeltCloakWG
+  name: white and gray resomi belt cloak
+  description: A resomi-sized cloak
+  components:
+  - type: Sprite
+    sprite: _Starlight/Clothing/Neck/cloaks/resomi_cloaks/generic/resomi_beltcloak_wg.rsi
+
+- type: entity
+  parent:  [ClothingNeckBase]
+  id: ResomiBeltCloakYG
+  name: yellow and gray resomi belt cloak
+  description: A resomi-sized cloak
+  components:
+  - type: Sprite
+    sprite: _Starlight/Clothing/Neck/cloaks/resomi_cloaks/generic/resomi_beltcloak_yg.rsi
+
+- type: entity
+  parent:  [ClothingNeckBase]
+  id: ResomiCloakBBL
+  name: black and blue resomi cloak
+  description: A resomi-sized cloak
+  components:
+  - type: Sprite
+    sprite: _Starlight/Clothing/Neck/cloaks/resomi_cloaks/generic/resomi_cloak_bbl.rsi
+
+- type: entity
+  parent:  [ClothingNeckBase]
+  id: ResomiCloakBBR
+  name: black and brown resomi cloak
+  description: A resomi-sized cloak
+  components:
+  - type: Sprite
+    sprite: _Starlight/Clothing/Neck/cloaks/resomi_cloaks/generic/resomi_cloak_bbr.rsi
+
+- type: entity
+  parent:  [ClothingNeckBase]
+  id: ResomiCloakBG
+  name: black and gray resomi cloak
+  description: A resomi-sized cloak
+  components:
+  - type: Sprite
+    sprite: _Starlight/Clothing/Neck/cloaks/resomi_cloaks/generic/resomi_cloak_bg.rsi
+
+- type: entity
+  parent:  [ClothingNeckBase]
+  id: ResomiCloakBGlowing
+  name: glowing resomi cloak
+  description: A resomi-sized cloak
+  components:
+  - type: Sprite
+    sprite: _Starlight/Clothing/Neck/cloaks/resomi_cloaks/generic/resomi_cloak_bglowing.rsi
+
+- type: entity
+  parent:  [ClothingNeckBase]
+  id: ResomiCloakBGR
+  name: black and green resomi cloak
+  description: A resomi-sized cloak
+  components:
+  - type: Sprite
+    sprite: _Starlight/Clothing/Neck/cloaks/resomi_cloaks/generic/resomi_cloak_bgr.rsi
+
+- type: entity
+  parent:  [ClothingNeckBase]
+  id: ResomiCloakBLUG
+  name: blue and black resomi cloak
+  description: A resomi-sized cloak
+  components:
+  - type: Sprite
+    sprite: _Starlight/Clothing/Neck/cloaks/resomi_cloaks/generic/resomi_cloak_blug.rsi
+
+- type: entity
+  parent:  [ClothingNeckBase]
+  id: ResomiCloakBMP
+  name: black resomi cloak
+  description: A resomi-sized cloak
+  components:
+  - type: Sprite
+    sprite: _Starlight/Clothing/Neck/cloaks/resomi_cloaks/generic/resomi_cloak_bmp.rsi
+
+- type: entity
+  parent:  [ClothingNeckBase]
+  id: ResomiCloakBO
+  name: black and orange resomi cloak
+  description: A resomi-sized cloak
+  components:
+  - type: Sprite
+    sprite: _Starlight/Clothing/Neck/cloaks/resomi_cloaks/generic/resomi_cloak_bo.rsi
+
+- type: entity
+  parent:  [ClothingNeckBase]
+  id: ResomiCloakBP
+  name: black and purple resomi cloak
+  description: A resomi-sized cloak
+  components:
+  - type: Sprite
+    sprite: _Starlight/Clothing/Neck/cloaks/resomi_cloaks/generic/resomi_cloak_bp.rsi
+
+- type: entity
+  parent:  [ClothingNeckBase]
+  id: ResomiCloakBPI
+  name: black and pink resomi cloak
+  description: A resomi-sized cloak
+  components:
+  - type: Sprite
+    sprite: _Starlight/Clothing/Neck/cloaks/resomi_cloaks/generic/resomi_cloak_bpi.rsi
+
+- type: entity
+  parent:  [ClothingNeckBase]
+  id: ResomiCloakBR
+  name: black and red resomi cloak
+  description: A resomi-sized cloak
+  components:
+  - type: Sprite
+    sprite: _Starlight/Clothing/Neck/cloaks/resomi_cloaks/generic/resomi_cloak_br.rsi
+
+- type: entity
+  parent:  [ClothingNeckBase]
+  id: ResomiCloakBRG
+  name: brown and gray resomi cloak
+  description: A resomi-sized cloak
+  components:
+  - type: Sprite
+    sprite: _Starlight/Clothing/Neck/cloaks/resomi_cloaks/generic/resomi_cloak_brg.rsi
+
+- type: entity
+  parent:  [ClothingNeckBase]
+  id: ResomiCloakBW
+  name: black and white resomi cloak
+  description: A resomi-sized cloak
+  components:
+  - type: Sprite
+    sprite: _Starlight/Clothing/Neck/cloaks/resomi_cloaks/generic/resomi_cloak_bw.rsi
+
+- type: entity
+  parent:  [ClothingNeckBase]
+  id: ResomiCloakBY
+  name: black and yellow resomi cloak
+  description: A resomi-sized cloak
+  components:
+  - type: Sprite
+    sprite: _Starlight/Clothing/Neck/cloaks/resomi_cloaks/generic/resomi_cloak_by.rsi
+
+- type: entity
+  parent:  [ClothingNeckBase]
+  id: ResomiCloakDRetrowave
+  name: retrowave resomi cloak
+  description: A resomi-sized cloak
+  components:
+  - type: Sprite
+    sprite: _Starlight/Clothing/Neck/cloaks/resomi_cloaks/generic/resomi_cloak_dretrowave.rsi
+
+- type: entity
+  parent:  [ClothingNeckBase]
+  id: ResomiCloakGG
+  name: green and gray resomi cloak 
+  description: A resomi-sized cloak
+  components:
+  - type: Sprite
+    sprite: _Starlight/Clothing/Neck/cloaks/resomi_cloaks/generic/resomi_cloak_gg.rsi
+
+- type: entity
+  parent:  [ClothingNeckBase]
+  id: ResomiCloakOG
+  name: orange and black resomi cloak
+  description: A resomi-sized cloak
+  components:
+  - type: Sprite
+    sprite: _Starlight/Clothing/Neck/cloaks/resomi_cloaks/generic/resomi_cloak_og.rsi
+
+- type: entity
+  parent:  [ClothingNeckBase]
+  id: ResomiCloakON
+  name: orange resomi cloak
+  description: A resomi-sized cloak
+  components:
+  - type: Sprite
+    sprite: _Starlight/Clothing/Neck/cloaks/resomi_cloaks/generic/resomi_cloak_on.rsi
+
+- type: entity
+  parent:  [ClothingNeckBase]
+  id: ResomiCloakPG
+  name: purple and gray resomi cloak
+  description: A resomi-sized cloak
+  components:
+  - type: Sprite
+    sprite: _Starlight/Clothing/Neck/cloaks/resomi_cloaks/generic/resomi_cloak_pg.rsi
+
+- type: entity
+  parent:  [ClothingNeckBase]
+  id: ResomiCloakPIG
+  name: pink and gray resomi cloak
+  description: A resomi-sized cloak
+  components:
+  - type: Sprite
+    sprite: _Starlight/Clothing/Neck/cloaks/resomi_cloaks/generic/resomi_cloak_pig.rsi
+
+- type: entity
+  parent:  [ClothingNeckBase]
+  id: ResomiCloakRainbow
+  name: rainbow resomi cloak
+  description: A resomi-sized cloak
+  components:
+  - type: Sprite
+    sprite: _Starlight/Clothing/Neck/cloaks/resomi_cloaks/generic/resomi_cloak_rainbow.rsi
+
+- type: entity
+  parent:  [ClothingNeckBase]
+  id: ResomiCloakRG
+  name: red and gray resomi cloak
+  description: A resomi-sized cloak
+  components:
+  - type: Sprite
+    sprite: _Starlight/Clothing/Neck/cloaks/resomi_cloaks/generic/resomi_cloak_rg.rsi
+
+- type: entity
+  parent:  [ClothingNeckBase]
+  id: ResomiCloakWG
+  name: white and black resomi cloak
+  description: A resomi-sized cloak
+  components:
+  - type: Sprite
+    sprite: _Starlight/Clothing/Neck/cloaks/resomi_cloaks/generic/resomi_cloak_wg.rsi
+
+- type: entity
+  parent:  [ClothingNeckBase]
+  id: ResomiCloakWN
+  name: white resomi cloak
+  description: A resomi-sized cloak
+  components:
+  - type: Sprite
+    sprite: _Starlight/Clothing/Neck/cloaks/resomi_cloaks/generic/resomi_cloak_wn.rsi
+
+- type: entity
+  parent:  [ClothingNeckBase]
+  id: ResomiCloakYG
+  name: yellow and black resomi cloak
+  description: A resomi-sized cloak
+  components:
+  - type: Sprite
+    sprite: _Starlight/Clothing/Neck/cloaks/resomi_cloaks/generic/resomi_cloak_yg.rsi
+
+- type: entity
+  parent:  [ClothingNeckBase]
+  id: ResomiCoat
+  name: black resomi coat
+  description: A resomi-sized coat
+  components:
+  - type: Sprite
+    sprite: _Starlight/Clothing/Neck/cloaks/resomi_cloaks/generic/resomi_coat.rsi
+
+- type: entity
+  parent:  [ClothingNeckBase]
+  id: ResomiCoatOpen
+  name: black open resomi coat
+  description: A resomi-sized coat
+  components:
+  - type: Sprite
+    sprite: _Starlight/Clothing/Neck/cloaks/resomi_cloaks/generic/resomi_coat_open.rsi
+
+- type: entity
+  parent:  [ClothingNeckBase]
+  id: ResomiCoatWhite
+  name: white resomi coat
+  description: A resomi-sized coat
+  components:
+  - type: Sprite
+    sprite: _Starlight/Clothing/Neck/cloaks/resomi_cloaks/generic/resomi_coatwhite.rsi
+
+- type: entity
+  parent:  [ClothingNeckBase]
+  id: ResomiCoatWhiteOpen
+  name: white open resomi coat
+  description: A resomi-sized cloak
+  components:
+  - type: Sprite
+    sprite: _Starlight/Clothing/Neck/cloaks/resomi_cloaks/generic/resomi_coatwhite_open.rsi
+
+# Departmental Cloaks
+
+- type: entity
+  parent:  [ClothingNeckBase]
+  id: ResomiBeltCloakAtmos
+  name: atmos resomi belt cloak
+  description: A resomi-sized cloak
+  components:
+  - type: Sprite
+    sprite: _Starlight/Clothing/Neck/cloaks/resomi_cloaks/departmental/resomi_beltcloak_atmos.rsi
+
+- type: entity
+  parent:  [ClothingNeckBase]
+  id: ResomiBeltCloakCargo
+  name: cargo resomi belt cloak
+  description: A resomi-sized cloak
+  components:
+  - type: Sprite
+    sprite: _Starlight/Clothing/Neck/cloaks/resomi_cloaks/departmental/resomi_beltcloak_car.rsi
+
+- type: entity
+  parent:  [ClothingNeckBase]
+  id: ResomiBeltCloakCE
+  name: chief engineer resomi belt cloak
+  description: A resomi-sized cloak
+  components:
+  - type: Sprite
+    sprite: _Starlight/Clothing/Neck/cloaks/resomi_cloaks/departmental/resomi_beltcloak_ce.rsi
+
+- type: entity
+  parent:  [ClothingNeckBase]
+  id: ResomiBeltCloakChem
+  name: chemistry resomi belt cloak
+  description: A resomi-sized cloak
+  components:
+  - type: Sprite
+    sprite: _Starlight/Clothing/Neck/cloaks/resomi_cloaks/departmental/resomi_beltcloak_chem.rsi
+
+- type: entity
+  parent:  [ClothingNeckBase]
+  id: ResomiBeltCloakCMO
+  name: chief medical officer resomi belt cloak
+  description: A resomi-sized cloak
+  components:
+  - type: Sprite
+    sprite: _Starlight/Clothing/Neck/cloaks/resomi_cloaks/departmental/resomi_beltcloak_cmo.rsi
+
+- type: entity
+  parent:  [ClothingNeckBase]
+  id: ResomiBeltCloakComm
+  name: command resomi belt cloak
+  description: A resomi-sized cloak
+  components:
+  - type: Sprite
+    sprite: _Starlight/Clothing/Neck/cloaks/resomi_cloaks/departmental/resomi_beltcloak_comm.rsi
+
+- type: entity
+  parent:  [ClothingNeckBase]
+  id: ResomiBeltCloakDoc
+  name: doctor resomi belt cloak
+  description: A resomi-sized cloak
+  components:
+  - type: Sprite
+    sprite: _Starlight/Clothing/Neck/cloaks/resomi_cloaks/departmental/resomi_beltcloak_doc.rsi
+
+- type: entity
+  parent:  [ClothingNeckBase]
+  id: ResomiBeltCloakEngi
+  name: engineering resomi belt cloak
+  description: A resomi-sized cloak
+  components:
+  - type: Sprite
+    sprite: _Starlight/Clothing/Neck/cloaks/resomi_cloaks/departmental/resomi_beltcloak_engie.rsi
+
+- type: entity
+  parent:  [ClothingNeckBase]
+  id: ResomiBeltCloakHOS
+  name: head of security resomi belt cloak
+  description: A resomi-sized cloak
+  components:
+  - type: Sprite
+    sprite: _Starlight/Clothing/Neck/cloaks/resomi_cloaks/departmental/resomi_beltcloak_hos.rsi
+
+- type: entity
+  parent:  [ClothingNeckBase]
+  id: ResomiBeltCloakIAA
+  name: internal affairs agent resomi belt cloak
+  description: A resomi-sized cloak
+  components:
+  - type: Sprite
+    sprite: _Starlight/Clothing/Neck/cloaks/resomi_cloaks/departmental/resomi_beltcloak_iaa.rsi
+
+- type: entity
+  parent:  [ClothingNeckBase]
+  id: ResomiBeltCloakJani
+  name: janitor resomi belt cloak
+  description: A resomi-sized cloak
+  components:
+  - type: Sprite
+    sprite: _Starlight/Clothing/Neck/cloaks/resomi_cloaks/departmental/resomi_beltcloak_jani.rsi
+
+- type: entity
+  parent:  [ClothingNeckBase]
+  id: ResomiBeltCloakMine
+  name: miner resomi belt cloak
+  description: A resomi-sized cloak
+  components:
+  - type: Sprite
+    sprite: _Starlight/Clothing/Neck/cloaks/resomi_cloaks/departmental/resomi_beltcloak_mine.rsi
+
+- type: entity
+  parent:  [ClothingNeckBase]
+  id: ResomiBeltCloakPara
+  name: paramedic resomi belt cloak
+  description: A resomi-sized cloak
+  components:
+  - type: Sprite
+    sprite: _Starlight/Clothing/Neck/cloaks/resomi_cloaks/departmental/resomi_beltcloak_para.rsi
+
+- type: entity
+  parent:  [ClothingNeckBase]
+  id: ResomiBeltCloakQM
+  name: quartermaster resomi belt cloak
+  description: A resomi-sized cloak
+  components:
+  - type: Sprite
+    sprite: _Starlight/Clothing/Neck/cloaks/resomi_cloaks/departmental/resomi_beltcloak_qm.rsi
+
+- type: entity
+  parent:  [ClothingNeckBase]
+  id: ResomiBeltCloakRobo
+  name: roboticist resomi belt cloak
+  description: A resomi-sized cloak
+  components:
+  - type: Sprite
+    sprite: _Starlight/Clothing/Neck/cloaks/resomi_cloaks/departmental/resomi_beltcloak_robo.rsi
+
+- type: entity
+  parent:  [ClothingNeckBase]
+  id: ResomiBeltCloakSci
+  name: science resomi belt cloak
+  description: A resomi-sized cloak
+  components:
+  - type: Sprite
+    sprite: _Starlight/Clothing/Neck/cloaks/resomi_cloaks/departmental/resomi_beltcloak_sci.rsi
+
+- type: entity
+  parent:  [ClothingNeckBase]
+  id: ResomiBeltCloakSecurity
+  name: security resomi belt cloak
+  description: A resomi-sized cloak
+  components:
+  - type: Sprite
+    sprite: _Starlight/Clothing/Neck/cloaks/resomi_cloaks/departmental/resomi_beltcloak_sec.rsi
+
+- type: entity
+  parent:  [ClothingNeckBase]
+  id: ResomiBeltCloakService
+  name: service resomi belt cloak
+  description: A resomi-sized cloak
+  components:
+  - type: Sprite
+    sprite: _Starlight/Clothing/Neck/cloaks/resomi_cloaks/departmental/resomi_beltcloak_serv.rsi
+
+- type: entity
+  parent:  [ClothingNeckBase]
+  id: ResomiBeltCloakViro
+  name: virology resomi belt cloak
+  description: A resomi-sized cloak
+  components:
+  - type: Sprite
+    sprite: _Starlight/Clothing/Neck/cloaks/resomi_cloaks/departmental/resomi_beltcloak_viro.rsi
+
+- type: entity
+  parent:  [ClothingNeckBase]
+  id: ResomiBeltCloakWarden
+  name: warden resomi belt cloak
+  description: A resomi-sized cloak
+  components:
+  - type: Sprite
+    sprite: _Starlight/Clothing/Neck/cloaks/resomi_cloaks/departmental/resomi_beltcloak_wrdn.rsi
+
+- type: entity
+  parent:  [ClothingNeckBase]
+  id: ResomiCloakAtmos
+  name: atmos resomi cloak
+  description: A resomi-sized cloak
+  components:
+  - type: Sprite
+    sprite: _Starlight/Clothing/Neck/cloaks/resomi_cloaks/departmental/resomi_cloak_atmos.rsi
+
+- type: entity
+  parent:  [ClothingNeckBase]
+  id: ResomiCloakCaptain
+  name: captain resomi cloak
+  description: A resomi-sized cloak
+  components:
+  - type: Sprite
+    sprite: _Starlight/Clothing/Neck/cloaks/resomi_cloaks/departmental/resomi_cloak_cap.rsi
+
+- type: entity
+  parent:  [ClothingNeckBase]
+  id: ResomiCloakCar
+  name: cargo resomi cloak
+  description: A resomi-sized cloak
+  components:
+  - type: Sprite
+    sprite: _Starlight/Clothing/Neck/cloaks/resomi_cloaks/departmental/resomi_cloak_car.rsi
+
+- type: entity
+  parent:  [ClothingNeckBase]
+  id: ResomiCloakCE
+  name: chief engineer resomi cloak
+  description: A resomi-sized cloak
+  components:
+  - type: Sprite
+    sprite: _Starlight/Clothing/Neck/cloaks/resomi_cloaks/departmental/resomi_cloak_ce.rsi
+
+- type: entity
+  parent:  [ClothingNeckBase]
+  id: ResomiCloakChem
+  name: chemistry resomi cloak
+  description: A resomi-sized cloak
+  components:
+  - type: Sprite
+    sprite: _Starlight/Clothing/Neck/cloaks/resomi_cloaks/departmental/resomi_cloak_chem.rsi
+
+- type: entity
+  parent:  [ClothingNeckBase]
+  id: ResomiCloakCMO
+  name: chief medical officer resomi cloak
+  description: A resomi-sized cloak
+  components:
+  - type: Sprite
+    sprite: _Starlight/Clothing/Neck/cloaks/resomi_cloaks/departmental/resomi_cloak_cmo.rsi
+
+- type: entity
+  parent:  [ClothingNeckBase]
+  id: ResomiCloakDoc
+  name: doctor resomi cloak
+  description: A resomi-sized cloak
+  components:
+  - type: Sprite
+    sprite: _Starlight/Clothing/Neck/cloaks/resomi_cloaks/departmental/resomi_cloak_doc.rsi
+
+- type: entity
+  parent:  [ClothingNeckBase]
+  id: ResomiCloakEngi
+  name: engineering resomi cloak
+  description: A resomi-sized cloak
+  components:
+  - type: Sprite
+    sprite: _Starlight/Clothing/Neck/cloaks/resomi_cloaks/departmental/resomi_cloak_engie.rsi
+
+- type: entity
+  parent:  [ClothingNeckBase]
+  id: ResomiCloakHOP
+  name: head of personnel resomi cloak
+  description: A resomi-sized cloak
+  components:
+  - type: Sprite
+    sprite: _Starlight/Clothing/Neck/cloaks/resomi_cloaks/departmental/resomi_cloak_hop.rsi
+
+- type: entity
+  parent:  [ClothingNeckBase]
+  id: ResomiCloakHOS
+  name: head of security resomi cloak
+  description: A resomi-sized cloak
+  components:
+  - type: Sprite
+    sprite: _Starlight/Clothing/Neck/cloaks/resomi_cloaks/departmental/resomi_cloak_hos.rsi
+
+- type: entity
+  parent:  [ClothingNeckBase]
+  id: ResomiCloakIAA
+  name: internal affairs agent resomi cloak
+  description: A resomi-sized cloak
+  components:
+  - type: Sprite
+    sprite: _Starlight/Clothing/Neck/cloaks/resomi_cloaks/departmental/resomi_cloak_iaa.rsi
+
+- type: entity
+  parent:  [ClothingNeckBase]
+  id: ResomiCloakMiner
+  name: miner resomi cloak
+  description: A resomi-sized cloak
+  components:
+  - type: Sprite
+    sprite: _Starlight/Clothing/Neck/cloaks/resomi_cloaks/departmental/resomi_cloak_mine.rsi
+
+- type: entity
+  parent:  [ClothingNeckBase]
+  id: ResomiCloakParamedic
+  name: paramedic resomi cloak
+  description: A resomi-sized cloak
+  components:
+  - type: Sprite
+    sprite: _Starlight/Clothing/Neck/cloaks/resomi_cloaks/departmental/resomi_cloak_para.rsi
+
+- type: entity
+  parent:  [ClothingNeckBase]
+  id: ResomiCloakPsych
+  name: psychologist resomi cloak
+  description: A resomi-sized cloak
+  components:
+  - type: Sprite
+    sprite: _Starlight/Clothing/Neck/cloaks/resomi_cloaks/departmental/resomi_cloak_psych.rsi
+
+- type: entity
+  parent:  [ClothingNeckBase]
+  id: ResomiCloakQM
+  name: quartermaster resomi cloak
+  description: A resomi-sized cloak
+  components:
+  - type: Sprite
+    sprite: _Starlight/Clothing/Neck/cloaks/resomi_cloaks/departmental/resomi_cloak_qm.rsi
+
+- type: entity
+  parent:  [ClothingNeckBase]
+  id: ResomiCloakRD
+  name: research director's resomi cloak
+  description: A resomi-sized cloak
+  components:
+  - type: Sprite
+    sprite: _Starlight/Clothing/Neck/cloaks/resomi_cloaks/departmental/resomi_cloak_rd.rsi
+
+- type: entity
+  parent:  [ClothingNeckBase]
+  id: ResomiCloakRoboticist
+  name: roboticist resomi cloak
+  description: A resomi-sized cloak
+  components:
+  - type: Sprite
+    sprite: _Starlight/Clothing/Neck/cloaks/resomi_cloaks/departmental/resomi_cloak_robo.rsi
+
+- type: entity
+  parent:  [ClothingNeckBase]
+  id: ResomiCloakScience
+  name: science resomi cloak
+  description: A resomi-sized cloak
+  components:
+  - type: Sprite
+    sprite: _Starlight/Clothing/Neck/cloaks/resomi_cloaks/departmental/resomi_cloak_sci.rsi
+
+- type: entity
+  parent:  [ClothingNeckBase]
+  id: ResomiCloakService
+  name: service resomi cloak
+  description: A resomi-sized cloak
+  components:
+  - type: Sprite
+    sprite: _Starlight/Clothing/Neck/cloaks/resomi_cloaks/departmental/resomi_cloak_serv.rsi
+
+- type: entity
+  parent:  [ClothingNeckBase]
+  id: ResomiCloakSecurity
+  name: security resomi cloak
+  description: A resomi-sized cloak
+  components:
+  - type: Sprite
+    sprite: _Starlight/Clothing/Neck/cloaks/resomi_cloaks/departmental/resomi_cloak_sec.rsi
+
+- type: entity
+  parent:  [ClothingNeckBase]
+  id: ResomiCloakViro
+  name: virologist resomi cloak
+  description: A resomi-sized cloak
+  components:
+  - type: Sprite
+    sprite: _Starlight/Clothing/Neck/cloaks/resomi_cloaks/departmental/resomi_cloak_viro.rsi
