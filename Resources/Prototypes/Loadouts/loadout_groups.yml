@@ -105,9 +105,14 @@
   - HappyHonk #SL
   - leftripperarm #SL
   - rightmechwrightarm #SL
+  - leftcargoleg #SL
+  - rightcargoleg #SL
   - CigPackBub #SL
   - PillCanisterPsicodine #SL
   - ClothingDogTags # SL
+  - PersonalAI #SL
+  - GoldenPersonalAI #SL
+  - AACTablet # DeltaV
 
 - type: loadoutGroup
   id: Glasses
@@ -134,6 +139,7 @@
   loadouts:
   - EmergencyNitrogen
   - EmergencyOxygen
+  - EmergencyElfOxygen # Starlight
   - LoadoutSpeciesVoxNitrogen
   - EmergencyNonBreather # 🌟Starlight🌟
 
@@ -716,6 +722,7 @@
   loadouts:
   - EmergencyNitrogenClown
   - EmergencyOxygenClown
+  - EmergencyElfOxygenClown # Starlight
   - LoadoutSpeciesVoxNitrogen
   - EmergencyNonBreatherClown # 🌟Starlight🌟
 
@@ -782,6 +789,7 @@
   loadouts:
   - EmergencyNitrogenMime
   - EmergencyOxygenMime
+  - EmergencyElfOxygenMime # Starlight
   - EmergencySpeciesMothMime
   - LoadoutSpeciesVoxNitrogen
   - EmergencyNonBreatherMime # 🌟Starlight🌟
@@ -1183,6 +1191,7 @@
   loadouts:
   - EmergencyNitrogenExtended
   - EmergencyOxygenExtended
+  - EmergencyElfOxygenExtended # Starlight
   - LoadoutSpeciesVoxNitrogen
   - EmergencyNonBreatherExtended # 🌟Starlight🌟
 
@@ -1366,6 +1375,7 @@
   minLimit: 0
   loadouts:
   - ClothingNeckCloakHosVar #STARLIGHT
+  - ClothingNeckCloakHosRetro #STARLIGHT
   - HeadofSecurityCloak
   - HeadofSecurityMantle
 
@@ -1647,6 +1657,7 @@
   loadouts:
   - EmergencyNitrogenSecurity
   - EmergencyOxygenSecurity
+  - EmergencyElfOxygenSecurity # Starlight
   - LoadoutSpeciesVoxNitrogen
   - EmergencyNonbreatherSecurity # 🌟Starlight🌟
 
@@ -1910,6 +1921,7 @@
   loadouts:
   - EmergencyNitrogenMedical
   - EmergencyOxygenMedical
+  - EmergencyElfOxygenMedical # Starlight
   - LoadoutSpeciesVoxNitrogen
   - EmergencyNonBreatherMedical # 🌟Starlight🌟
 
@@ -1953,6 +1965,7 @@
   loadouts:
   - EmergencyNitrogenSyndicate
   - EmergencyOxygenSyndicate
+  - EmergencyElfOxygenSyndicate # Starlight
   - LoadoutSpeciesVoxNitrogen
   - EmergencyNonBreatherSyndicate # 🌟Starlight🌟
 
@@ -1964,6 +1977,7 @@
   loadouts:
   - EmergencyNitrogenMilitaryDouble
   - EmergencyOxygenMilitaryDouble
+  - EmergencyElfOxygenMilitaryDouble # Starlight
 
 - type: loadoutGroup
   id: GroupSpeciesBreathTool

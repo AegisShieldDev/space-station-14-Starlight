@@ -490,6 +490,30 @@
       - RightArmCyberMechwright
 
 - type: loadout
+  id: leftcargoleg
+  effects:
+    - !type:JobRequirementLoadoutEffect
+      requirement:
+        !type:DepartmentTimeRequirement
+        department: Cargo
+        time: 72000 # 20 hours of needing more storage
+  storage:
+    back: 
+      - LeftLegCyberCargo
+
+- type: loadout
+  id: rightcargoleg
+  effects:
+    - !type:JobRequirementLoadoutEffect
+      requirement:
+        !type:DepartmentTimeRequirement
+        department: Cargo
+        time: 72000 # 20 hours of needing more storage
+  storage:
+    back: 
+      - RightLegCyberCargo
+
+- type: loadout
   id: CigPackBub
   effects:
     - !type:JobRequirementLoadoutEffect
@@ -516,3 +540,26 @@
   storage:
     back:
     - ClothingDogTags
+
+- type: loadout
+  id: PersonalAI
+  effects:
+  - !type:JobRequirementLoadoutEffect
+    requirement:
+      !type:OverallPlaytimeRequirement
+      time: 48h
+  storage:
+    back: 
+      - PersonalAI
+
+- type: loadout
+  id: GoldenPersonalAI
+  effects:
+  - !type:JobRequirementLoadoutEffect
+    requirement:
+      !type:RoleTimeRequirement
+      role: GhostPAI
+      time: 8h
+  storage:
+    back: 
+      - GoldenPersonalAI
