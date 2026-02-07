@@ -128,13 +128,6 @@
   sprites:
   - sprite: _Starlight/Mobs/Customization/Resomi/resomi_head_markings.rsi
     state: resomi_earring_1_1
-
-- type: marking
-  id: ResomiHeadJewelleryOneLeft
-  bodyPart: HeadTop
-  markingCategory: HeadTop
-  speciesRestriction: [Resomi]
-  sprites:
   - sprite: _Starlight/Mobs/Customization/Resomi/resomi_head_markings.rsi
     state: resomi_earring_1_2
 
@@ -146,15 +139,8 @@
   sprites:
   - sprite: _Starlight/Mobs/Customization/Resomi/resomi_head_markings.rsi
     state: resomi_earring_2_1
-
-- type: marking
-  id: ResomiHeadJewelleryTwoLeft
-  bodyPart: HeadTop
-  markingCategory: HeadTop
-  speciesRestriction: [Resomi]
-  sprites:
   - sprite: _Starlight/Mobs/Customization/Resomi/resomi_head_markings.rsi
-    state: resomi_earring_2_2
+    state: resomi_earring_2_2  
 
 - type: marking
   id: ResomiHeadJewelleryThreeRight
@@ -164,15 +150,8 @@
   sprites:
   - sprite: _Starlight/Mobs/Customization/Resomi/resomi_head_markings.rsi
     state: resomi_earring_3_1
-
-- type: marking
-  id: ResomiHeadJewelleryThreeLeft
-  bodyPart: HeadTop
-  markingCategory: HeadTop
-  speciesRestriction: [Resomi]
-  sprites:
   - sprite: _Starlight/Mobs/Customization/Resomi/resomi_head_markings.rsi
-    state: resomi_earring_3_2
+    state: resomi_earring_3_2  
 
 - type: marking
   id: ResomiHeadJewelleryFourRight
@@ -182,13 +161,6 @@
   sprites:
   - sprite: _Starlight/Mobs/Customization/Resomi/resomi_head_markings.rsi
     state: resomi_earring_4_1
-
-- type: marking
-  id: ResomiHeadJewelleryFourLeft
-  bodyPart: HeadTop
-  markingCategory: HeadTop
-  speciesRestriction: [Resomi]
-  sprites:
   - sprite: _Starlight/Mobs/Customization/Resomi/resomi_head_markings.rsi
     state: resomi_earring_4_2
 
