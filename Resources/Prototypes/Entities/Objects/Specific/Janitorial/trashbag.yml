@@ -74,3 +74,25 @@
     maxItemSize: Huge
     grid:
     - 0,0,7,6
+
+# Starlight start
+- type: entity
+  parent: TrashBag
+  id: XenoborgTrashBag
+  name: xenoborg trash bag
+  description: An eerie bag that seems larger on the inside.
+  components:
+  - type: Storage
+    maxItemSize: Huge
+    grid:
+    - 0,0,7,6
+    blacklist:
+       tags:
+        - Brain
+    whitelist:
+      tags:
+        - Trash
+        - PDA
+        - Meat
+    
+# Starlight end

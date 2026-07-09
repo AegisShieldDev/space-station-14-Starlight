@@ -393,3 +393,87 @@
           tags:
           - MechReactor
         #Starlight End
+# Starlight start
+- type: entity
+  parent: [ BaseXenoborgChassis, BaseXenoborgTransponder ]
+  id: XenoborgSeer
+  name: seer xenoborg
+  suffix: No Brain
+  description: A man-machine hybrid that aims to replicate itself. They love extracting brains to insert into fresh Xenoborg chassis to grow their army. This one seems to be a seer type, as it's eerie eye seems to look through you.
+  components:
+  - type: BorgTransponder
+    name: seer xenoborg
+    sprite:
+      sprite: Starlight/Mobs/Silicon/Chassis/xeno_seer.rsi
+      state: borg
+  - type: Sprite
+    sprite: _Starlight/Mobs/Silicon/Chassis/xeno_seer.rsi #Starlight Borg RSI Atomization
+    layers:
+    - state: borg
+    - state: borg_e
+      map: ["enum.BorgVisualLayers.Light"]
+      shader: unshaded
+      visible: false
+    - state: borg_l
+      shader: unshaded
+      map: ["light"]
+      visible: false
+  - type: BorgChassis
+    maxModules: 8
+    hasMindState: borg_e
+    noMindState: borg_e_r
+    moduleWhitelist:
+      tags:
+      - XenoborgModuleGeneric
+      - XenoborgJanitorial
+      - BorgModuleGeneric
+  - type: ContainerFill
+    containers:
+      # borg_brain:
+      # - MMIFilled
+      borg_module:
+      - XenoborgJanitorial
+  - type: ShowElectrocutionHUD
+  - type: ShowHealthBars
+    damageContainers:
+    - Inorganic
+    - Silicon
+    - IPC
+    - Hybrid
+  - type: ItemSlots
+    slots:
+      cell_slot:
+        name: power-cell-slot-component-slot-name-default
+        startingItem: PowerCellHigh
+        blacklist:
+          tags:
+          - MechReactor
+# Starlight end
+
+# Starlight Start
+- type: entity
+  parent: XenoborgSeer
+  id: XenoborgSeerPrinted
+  suffix: no brain
+  components:
+  - type: ContainerFill
+    containers:
+      borg_brain:
+      - MMI
+      borg_module:
+      - XenoborgModuleBasic
+      - BorgModuleAdvancedTool
+      - BorgModuleConstruction
+      - XenoborgModuleRCD
+      - BorgModuleCable
+      - XenoborgModuleAccessBreaker
+      - XenoborgModuleFireExtinguisher
+  - type: ItemSlots
+    slots:
+      cell_slot:
+        name: power-cell-slot-component-slot-name-default
+        startingItem: PowerCellHighPrinted
+        blacklist:
+          tags:
+          - MechReactor
+# Starlight End

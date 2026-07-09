@@ -112,6 +112,7 @@
         type: HealthAnalyzerBoundUserInterface
   - type: Tag
     tags:
+    - PDA # Starlight
     - DoorBumpOpener
     - WhitelistChameleon
     - WhitelistChameleonPDA

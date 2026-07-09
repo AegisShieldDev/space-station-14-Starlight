@@ -7,6 +7,7 @@
   - XenoborgHeavyRecipe
   - XenoborgScoutRecipe
   - XenoborgStealthRecipe
+  - XenoborgJanitorialRecipe
   - XenoroachRecipe #Starlight
 
 - type: latheRecipePack
@@ -25,3 +26,6 @@
   # stealth xenoborg
   - XenoborgModuleSuperCloakDeviceRecipe
   - XenoborgModuleHypoPlusRecipe # Starlight
+  # Starlight
+  # seer xenoborg
+  - XenoborgJanitorial
