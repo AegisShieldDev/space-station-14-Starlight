@@ -800,6 +800,7 @@
   loadouts:
   - DigiboardMassMedia
   - HoloReporterPin
+  - LizardPlushieReporter
 
 # Assistant Manager
 - type: loadoutGroup
@@ -1233,3 +1234,4 @@
   - BrigmedicRig
   - BrigmedicBelt
   - CorpsmanBelt
+

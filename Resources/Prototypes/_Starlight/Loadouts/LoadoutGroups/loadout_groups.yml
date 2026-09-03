@@ -153,13 +153,6 @@
   - LizardPlushieSecurityCadet
 
 - type: loadoutGroup
-  id: ReporterJobTrinkets
-  name: loadout-group-jobtrinkets
-  minLimit: 0
-  loadouts:
-  - LizardPlushieReporter
-
-- type: loadoutGroup
   id: PsychologistJobTrinkets
   name: loadout-group-jobtrinkets
   minLimit: 0
