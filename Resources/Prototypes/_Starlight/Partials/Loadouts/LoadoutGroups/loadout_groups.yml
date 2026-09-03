@@ -1,0 +1,119 @@
+- type: !PartialOnly roleLoadout
+  id: JobCaptain
+  groups:
+  - CaptainJobTrinkets
+
+- type: !PartialOnly roleLoadout
+  id: JobHeadOfPersonnel
+  groups:
+  - HoPJobTrinkets
+
+- type: !PartialOnly roleLoadout
+  id: JobPassenger
+  groups:
+  - PassengerJobTrinkets
+
+- type: !PartialOnly roleLoadout
+  id: JobBartender
+  groups:
+  - ServiceWorkerJobTrinkets
+
+- type: !PartialOnly roleLoadout
+  id: JobChef
+  groups:
+  - ChefJobTrinkets
+
+- type: !PartialOnly roleLoadout
+  id: JobLibrarian
+  groups:
+  - LibrarianJobTrinkets
+
+- type: !PartialOnly roleLoadout
+  id: JobLawyer
+  groups:
+  - LawyerJobTrinkets
+
+- type: !PartialOnly roleLoadout
+  id: JobChaplain
+  groups:
+  - ChaplainJobTrinkets
+
+- type: !PartialOnly roleLoadout
+  id: JobBotanist
+  groups:
+  - BotanistJobTrinkets
+
+- type: !PartialOnly roleLoadout
+  id: JobMime
+  groups:
+  - MimeJobTrinkets
+
+- type: !PartialOnly roleLoadout
+  id: JobMusician
+  groups:
+  - MusicianJobTrinkets
+
+- type: !PartialOnly roleLoadout
+  id: JobQuartermaster
+  groups:
+  - QuartermasterJobTrinkets
+
+- type: !PartialOnly roleLoadout
+  id: JobCargoTechnician
+  groups:
+  - CargoTechnicianJobTrinkets
+
+- type: !PartialOnly roleLoadout
+  id: JobSalvageSpecialist
+  groups:
+  - SalvageSpecialistJobTrinkets
+
+- type: !PartialOnly roleLoadout
+  id: JobChiefEngineer
+  groups:
+  - ChiefEngineerJobTrinkets
+
+- type: !PartialOnly roleLoadout
+  id: JobTechnicalAssistant
+  groups:
+  - TechnicalAssistantJobTrinkets
+
+- type: !PartialOnly roleLoadout
+  id: JobStationEngineer
+  groups:
+  - StationEngineerJobTrinkets
+
+- type: !PartialOnly roleLoadout
+  id: JobAtmosphericTechnician
+  groups:
+  - AtmosphericTechnicianJobTrinkets
+
+- type: !PartialOnly roleLoadout
+  id: JobResearchDirector
+  groups:
+  - ResearchDirectorJobTrinkets
+
+- type: !PartialOnly roleLoadout
+  id: JobScientist
+  groups:
+  - ScientistJobTrinkets
+
+- type: !PartialOnly roleLoadout
+  id: JobResearchAssistant
+  groups:
+  - ResearchAssistantJobTrinkets
+
+- type: !PartialOnly roleLoadout
+  id: JobSecurityCadet
+  groups:
+  - SecurityCadetJobTrinkets
+
+- type: !PartialOnly roleLoadout
+  id: JobReporter
+  groups:
+  - ReporterJobTrinkets
+
+- type: !PartialOnly roleLoadout
+  id: JobPsychologist
+  groups:
+  - PsychologistJobTrinkets

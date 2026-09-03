@@ -1,0 +1,24 @@
+- type: !PartialOnly roleLoadout
+  id: JobChiefMedicalOfficer
+  groups:
+  - ChiefMedicalOfficerJobTrinkets
+
+- type: !PartialOnly roleLoadout
+  id: JobMedicalDoctor
+  groups:
+  - MedicalDoctorJobTrinkets
+
+- type: !PartialOnly roleLoadout
+  id: JobMedicalIntern
+  groups:
+  - MedicalInternJobTrinkets
+
+- type: !PartialOnly roleLoadout
+  id: JobChemist
+  groups:
+  - ChemistJobTrinkets
+
+- type: !PartialOnly roleLoadout
+  id: JobParamedic
+  groups:
+  - ParamedicJobTrinkets
