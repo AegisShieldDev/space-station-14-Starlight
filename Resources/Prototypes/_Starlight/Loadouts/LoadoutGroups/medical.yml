@@ -26,6 +26,13 @@
   - LizardPlushieChiefMedicalOfficer
 
 - type: loadoutGroup
+  id: MedicalDoctorJobTrinkets
+  name: loadout-group-jobtrinkets
+  minLimit: 0
+  loadouts:
+  - LizardPlushieMedicalDoctor
+
+- type: loadoutGroup
   id: MedicalInternJobTrinkets
   name: loadout-group-jobtrinkets
   minLimit: 0

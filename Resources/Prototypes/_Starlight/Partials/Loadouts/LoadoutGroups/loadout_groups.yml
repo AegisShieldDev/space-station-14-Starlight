@@ -8,15 +8,22 @@
   groups:
   - HoPJobTrinkets
 
+  # Note to self for when you wake up, passenger becomes assistant
 - type: !PartialOnly roleLoadout
   id: JobPassenger
   groups:
   - PassengerJobTrinkets
 
+  #Note to self for when you wake up tomorrow, Delete this, it's redundant and right now you have two job trinket categories on the loadout, one showing the plushie, the other not. Append the plushie to the existing job trinkets list?
 - type: !PartialOnly roleLoadout
   id: JobBartender
   groups:
   - ServiceWorkerJobTrinkets
+
+# note to self for when you wake up, boxer has a plush
+
+#note to self, clown is broken
+# note to self, HOS/Warden/Secoff are broken
 
 - type: !PartialOnly roleLoadout
   id: JobChef
